@@ -1,0 +1,14 @@
+../App/Src/Emm_V5.c:10:6:Emm_V5_Reset_CurPos_To_Zero	1
+../App/Src/Emm_V5.c:28:6:Emm_V5_Reset_Clog_Pro	1
+../App/Src/Emm_V5.c:47:6:Emm_V5_Read_Sys_Params	15
+../App/Src/Emm_V5.c:135:6:Emm_V5_Modify_Ctrl_Mode	1
+../App/Src/Emm_V5.c:157:6:Emm_V5_En_Control	1
+../App/Src/Emm_V5.c:181:6:Emm_V5_Vel_Control	1
+../App/Src/Emm_V5.c:210:6:Emm_V5_Pos_Control	1
+../App/Src/Emm_V5.c:239:6:Emm_V5_Stop_Now	1
+../App/Src/Emm_V5.c:258:6:Emm_V5_Synchronous_motion	1
+../App/Src/Emm_V5.c:277:6:Emm_V5_Origin_Set_O	1
+../App/Src/Emm_V5.c:305:6:Emm_V5_Origin_Modify_Params	1
+../App/Src/Emm_V5.c:343:6:Emm_V5_Origin_Trigger_Return	1
+../App/Src/Emm_V5.c:362:6:Emm_V5_Origin_Interrupt	1
+../App/Src/Emm_V5.c:375:6:Emm_V5_init	1

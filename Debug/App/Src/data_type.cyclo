@@ -1,0 +1,2 @@
+../App/Src/data_type.c:39:6:parseData	9
+../App/Src/data_type.c:87:6:HAL_UART_RxCpltCallback	3

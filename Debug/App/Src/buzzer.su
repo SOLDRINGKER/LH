@@ -1,0 +1,3 @@
+../App/Src/buzzer.c:14:6:buzzer_on	16	static
+../App/Src/buzzer.c:22:6:buzzer	16	static
+../App/Src/buzzer.c:44:6:buzzer_off	4	static
